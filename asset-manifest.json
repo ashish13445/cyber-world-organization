@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cyber-world-organization/static/css/main.2a718c05.chunk.css",
+    "main.js": "/cyber-world-organization/static/js/main.3f569b0a.chunk.js",
+    "main.js.map": "/cyber-world-organization/static/js/main.3f569b0a.chunk.js.map",
+    "runtime-main.js": "/cyber-world-organization/static/js/runtime-main.d5a9dfc4.js",
+    "runtime-main.js.map": "/cyber-world-organization/static/js/runtime-main.d5a9dfc4.js.map",
+    "static/css/2.cda3c33c.chunk.css": "/cyber-world-organization/static/css/2.cda3c33c.chunk.css",
+    "static/js/2.66d91c42.chunk.js": "/cyber-world-organization/static/js/2.66d91c42.chunk.js",
+    "static/js/2.66d91c42.chunk.js.map": "/cyber-world-organization/static/js/2.66d91c42.chunk.js.map",
+    "static/js/3.84a11b97.chunk.js": "/cyber-world-organization/static/js/3.84a11b97.chunk.js",
+    "static/js/3.84a11b97.chunk.js.map": "/cyber-world-organization/static/js/3.84a11b97.chunk.js.map",
+    "index.html": "/cyber-world-organization/index.html",
+    "static/css/2.cda3c33c.chunk.css.map": "/cyber-world-organization/static/css/2.cda3c33c.chunk.css.map",
+    "static/css/main.2a718c05.chunk.css.map": "/cyber-world-organization/static/css/main.2a718c05.chunk.css.map",
+    "static/js/2.66d91c42.chunk.js.LICENSE.txt": "/cyber-world-organization/static/js/2.66d91c42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5a9dfc4.js",
+    "static/css/2.cda3c33c.chunk.css",
+    "static/js/2.66d91c42.chunk.js",
+    "static/css/main.2a718c05.chunk.css",
+    "static/js/main.3f569b0a.chunk.js"
+  ]
+}
